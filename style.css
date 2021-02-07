@@ -1,0 +1,55 @@
+.body {
+    background-color: dodgerblue;
+}
+
+.my_nav_bar {
+    z-index: 99999;
+    top: 0px;
+    position: sticky;
+}
+
+.marquee {
+    color: white;
+    font-size: 25px;
+}
+
+.yaraImageWrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.yaraImage {
+    width: 1000px;
+    height: 600px;
+}
+
+.hiPClass {
+    font-size: 40px;
+    line-height: 1.2;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    text-align: center;
+}
+
+.line {
+    height: 10px;
+    width: 75px;
+    background-color: black
+}
+
+.hihihi {
+    display: flex;
+    justify-content: center;
+}
+
+.iframe {
+    display: flex;
+    justify-content: center;
+
+}
+.text{
+    background-color: red;
+}
+.aaa{
+    color: black;
+}
