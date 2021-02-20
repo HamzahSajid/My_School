@@ -166,3 +166,25 @@ margin-left: 20px;
   height: 20px;
   background-color:white;
   }
+.book{
+    cursor: pointer;
+}
+.book .im{
+    width: 300px;
+    height: 350px;
+}
+.book hr{
+    margin-bottom: 10px;
+}
+.modal-content{
+    margin-top: 100px;
+}
+.img_modal{
+    display: inline-block;
+}
+.p_modal{
+    margin-top: 10px;
+}
+.modal-body{
+    text-align: center;
+}
